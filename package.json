@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  },
+  "browserslist": [
+    "last 1 Edge version",
+    "last 1 Chrome version",
+    "last 1 Firefox version",
+    "last 1 safari version",
+    "last 1 webkit version"
+  ],
+  "devDependencies": {
+    "buffer": "^5.7.1"
+  },
+  "name": "Web",
+  "version": "1.0.0",
+  "main": "azure-storage.blob.min.js",
+  "description": ""
+}
